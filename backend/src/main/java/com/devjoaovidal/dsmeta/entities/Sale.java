@@ -1,5 +1,6 @@
 package com.devjoaovidal.dsmeta.entities;
 
+
 import javax.persistence.*;
 import java.time.LocalDate;
 
